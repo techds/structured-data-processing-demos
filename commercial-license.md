@@ -19,7 +19,7 @@ If you are using this software as part of a commercial product, service, or inte
 - Using this software internally as an operational or productivity tool (e.g., automating workflows, internal reporting, or processing business data).
 
 ## License Fees
-Commercial licensing fees are based on usage tiers and the nature of the deployment. For current pricing and licensing details, please [email](datarc.co@gmail.com) us. In the future, you will also be able to find this information on our [licensing page](https://datarc.co/licensing).
+Commercial licensing fees are based on usage tiers and the nature of the deployment. For current pricing and licensing details, please [email](mailto:datarc.co@gmail.com) us. In the future, you will also be able to find this information on our [licensing page](https://datarc.co/licensing).
 
 ## Support and Updates
 Commercial license holders are entitled to priority support and access to updates, including security patches and new features, as outlined in their subscription tier.

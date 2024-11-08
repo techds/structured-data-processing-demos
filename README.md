@@ -1,21 +1,24 @@
 # <p align="center"><b>Preview<b></p>
 <br>
 
-## **Pandas utility library&mdash;an easier way to process data in dataframes.** [Navigate to demos in PDFs.](/PDFs/)**  
+## **Pandas utility library&mdash;an easier way to process data in dataframes.**  
 <br>
 
 ![cover image](/assets/images/pdu_cover_1920x1080.png)
 <br>
 
 ## Overview
-This library offers enhanced tools for the pre-processing and analysis of structured data. Built on top of the Pandas library, this utility extends the functionality and enhances the efficiency of Pandas to streamline workflows. By enabling workflow automation and optimization, it aims to simplify and accelerate structured data pre-processing and analysis tasks. These optimized processes reduce manual effort, minimize human error, enhance consistency, and boost productivity for data scientists and analysts. 
+This software library offers enhanced tools for the pre-processing and analysis of structured data. Built on top of the Pandas library, this utility extends the functionality and enhances the efficiency of Pandas to streamline workflows. By enabling workflow automation and optimization, it aims to simplify and accelerate structured data pre-processing and analysis tasks. These optimized processes reduce manual effort, minimize human error, enhance consistency, and boost productivity for data scientists and analysts. 
+
+## [PDF Demos](/PDFs/)
+A few demos in PDF format are provided to offer a glimpse into the functionality of the software library. Access these demos on any machine with a PDF reader and review them offline, enjoying a reliable, consistent viewing experience without the hassle of layout issues.
 
 ## License Information
 This software is available under a dual-license model:
 - Open-source: Licensed under the MIT License for non-commercial use, educational purposes, or personal projects.
 - Commercial: For use in commercial products, services, or environments, a Commercial License is required.
 
-See [LICENSE](./LICENSE.txt) for the MIT terms, and [COMMERCIAL-LICENSE.md](./commercial-license.md) for commercial terms.
+See [LICENSE](/LICENSE) for the MIT terms, and [COMMERCIAL-LICENSE.md](/commercial-license.md) for commercial terms.
 
 ## Attribution Notice
 This software primarily relies on the following open-source libraries:
